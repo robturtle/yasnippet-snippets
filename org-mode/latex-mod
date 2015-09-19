@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-mod
+# key: mod
+# --
+\textbf{ mod }

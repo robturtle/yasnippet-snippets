@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-cmdline-block
+# key: cmdline
+# --
+\begin{cmdline}${1:[caption=$2]}
+$0
+\end{cmdline}

@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-mathbb
+# key: bb
+# --
+\mathbb{$1}$0

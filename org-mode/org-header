@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: org-header
+# key: #
+# --
+#+${1:header}: $0

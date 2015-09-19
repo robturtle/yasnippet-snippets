@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: org-image
+# key: image
+# --
+#+CAPTION: ${1:image caption}
+#+NAME: fig:${2:overview}
+[[$3]]$0

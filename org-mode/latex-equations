@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-equations
+# key: equ
+# --
+\begin{align}
+$1
+\end{align}$0

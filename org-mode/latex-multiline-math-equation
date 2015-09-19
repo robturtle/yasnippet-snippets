@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-multiline-math-equation
+# key: math
+# --
+\begin{align*}
+$0
+\end{align*}

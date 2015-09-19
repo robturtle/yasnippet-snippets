@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: org-file-head
+# key: head
+# --
+#+TITLE: $1
+#+AUTHOR: Yang Liu${2: (N18178005, yl3710)}
+${3:#+FILETAGS: $4}
+${5:#+CATEGORY: $4}$0

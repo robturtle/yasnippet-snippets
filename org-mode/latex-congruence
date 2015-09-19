@@ -1,0 +1,5 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex-congruence
+# key: congruence
+# --
+a \equiv b\, (\text{mod } m)
