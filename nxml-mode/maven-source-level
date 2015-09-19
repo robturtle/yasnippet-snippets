@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: maven-source-level
+# key: level
+# --
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-compiler-plugin</artifactId>
+<version>3.3</version>
+<configuration>
+  <source>${1:1.7}</source>
+  <target>${2:$1}</target>
+</configuration>$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: maven-build-plugins
+# key: bplugins
+# --
+<build>
+  <plugins>
+    <plugin>
+      $0
+    </plugin>
+  </plugins>
+</build>
+
